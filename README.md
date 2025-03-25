@@ -1,7 +1,3 @@
-Here’s a proper **`README.md`** version of the tutorial with clear formatting, headings, and code blocks:
-
----
-
 # **API-First Development with OpenAPI & Spring Boot**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-green)  
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-3.0.3-blue)  
@@ -158,17 +154,4 @@ public class UserController implements UsersApi {
 - Secure the API with **Spring Security**.  
 - Deploy with **Docker**.  
 
----
 
-**🎉 Happy coding!** Let me know if you need further help. 😊  
-
---- 
-
-This `README.md` includes:  
-- Clear **headings** and **sections**  
-- **Code blocks** with syntax highlighting  
-- **Badges** for versions  
-- **Commands** and **links** for easy navigation  
-- **Best practices** and **next steps**  
-
-Would you like any modifications? 😊
